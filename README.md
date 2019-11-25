@@ -21,8 +21,8 @@ nano Dockerfile
 Add contents:
 ```
 FROM alpine
-COPY quickstart.sh /
-CMD ["sh" , "/quickstart.sh"]
+COPY app.sh /
+CMD ["sh" , "/app.sh"]
 ```
 
 - Make `app.sh` executable using: `chmod +x app.sh`
