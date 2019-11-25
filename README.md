@@ -5,7 +5,7 @@ Build Docker image using a Dockerfile then do the same in Google Cloud Container
 - Create a file `app.sh` with:
 
 ```.sh
-nano app.sh`. 
+nano app.sh 
 ```
 
 Add the contents into `app.sh` :
