@@ -2,7 +2,11 @@
 
 Build Docker image using a Dockerfile then do the same in Google Cloud Container Builder and push the image to Container Registry.
 
-- Create a file `app.sh` with: `nano app.sh`. 
+- Create a file `app.sh` with:
+
+```.sh
+nano app.sh`. 
+```
 
 Add the contents into `app.sh` :
 
